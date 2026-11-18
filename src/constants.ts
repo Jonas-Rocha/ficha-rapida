@@ -22,4 +22,6 @@ export const SITUACOES: Record<Situacao, string> = {
 
 export const ORIGENS: Origem[] = ['Stand / plantão', 'Indicação', 'Redes sociais', 'Captação na rua', 'Outro']
 
-export const OPCOES_PARCELAS = [1, 6, 10, 12, 18, 24, 36]
+export const OPCOES_PARCELAS = [1, 6, 10, 12, 18, 24, 30, 36]
+
+export const LIMITE_COMPROMETIMENTO = 0.3

@@ -58,10 +58,6 @@ export function ResultadoProposta({ texto, telefone, onCopiado }: Props) {
           </button>
         )}
       </div>
-      <p className="text-sm text-stone-500">
-        O saldo restante é pago por financiamento bancário. As parcelas do financiamento dependem da análise de crédito
-        do banco.
-      </p>
     </div>
   )
 }
